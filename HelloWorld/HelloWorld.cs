@@ -8,6 +8,6 @@ class HelloWorld
         Console.WriteLine("WE ARE IN THE DEBUG CONFIGURATION");
 #endif
 
-        Console.WriteLine("Hello, world!");
+        Console.WriteLine("Hello, world!!");
     }
 }
